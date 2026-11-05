@@ -1,6 +1,6 @@
 # IMC Challenge 2025
 
-Solutions developed for the **IMC Challenge 2025**, a signal-processing competition. Our team placed **3rd overall**.
+Solutions developed for the **IMC Challenge 2025**, a signal-processing competition. Our team placed **10th overall** and won **3rd prize**.
 
 Both problems revolve around recovering a clean digital signal from a noisy, distorted analog channel — the two classic sides of a communications link: given what you *sent*, predict what the channel *produced* (Problem A), and given what the channel *produced*, recover what was *sent* (Problem B).
 
